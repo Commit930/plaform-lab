@@ -1,0 +1,6 @@
+Variable is nothing but like a box where you store your information.
+Python stores it as an object.
+if checks the condition is true or not, 
+if it is true: runs the block under if
+if it is false: skips the if and else will run( if it is present)
+try/except is used to catch the errors.  int("three") will cause a Valueerror, so we catch it using except.
